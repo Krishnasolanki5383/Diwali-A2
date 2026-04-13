@@ -15,64 +15,64 @@ Footer with subscription form
 
 It is built to practice UI design, positioning, and layout structuring.
 
-🚀 Features
-🎨 Wix-style header with device preview icons
-🧭 Navigation menu (Home, Forum, Blog, etc.)
-🖼️ Hero section with background image
-🔍 Search bar
-🧩 Image gallery/grid layout
-⚪ Decorative circular design elements
-📝 Blog & forum highlights
-📩 Email subscription section
-📄 Footer with branding
+🚀 Features<br/>
+🎨 Wix-style header with device preview icons<br/>
+🧭 Navigation menu (Home, Forum, Blog, etc.)<br/>
+🖼️ Hero section with background image<br/>
+🔍 Search bar<br/><br/>
+🧩 Image gallery/grid layout<br/>
+⚪ Decorative circular design elements<br/>
+📝 Blog & forum highlights<br/>
+📩 Email subscription section<br/>
+📄 Footer with branding<br/>
 🛠️ Technologies Used
-HTML5
+HTML5<br/>
 CSS3
-📂 Project Structure
-project-folder/
+📂 Project Structure<br/>
+project-folder/<br/>
 │
-├── Wix.html
-├── style (internal CSS)
-├── images/
-│   ├── backimg1.avif
-│   ├── Bimg1.png
-│   ├── Bimg2.png
-│   └── other assets
-📸 Sections Breakdown
-🔹 Header (Wix Style)
+├── Wix.html<br/>
+├── style (internal CSS)<br/>
+├── images/<br/>
+│   ├── backimg1.avif<br/>
+│   ├── Bimg1.png<br/><br/>
+│   ├── Bimg2.png<br/>
+│   └── other assets<br/><br/>
+📸 Sections Breakdown<br/>
+🔹 Header (Wix Style)<br/>
 Logo (WIX)
 Device preview icons (Desktop/Mobile)
-CTA button (Edit this site)
-🔹 Navigation
+CTA button (Edit this site)<br/>
+🔹 Navigation<br/>
 Links:
 Home
 Forum
 Blog
 About
-Contact
-🔹 Hero Section
+Contact<br/>
+🔹 Hero Section<br/>
 Large background image
 Branding text:
 BUMP & BEYOND
-Tagline for moms
-🔹 Search Bar
-Simple search input field
-🔹 Image Gallery
+Tagline for moms<br/>
+🔹 Search Bar<br/>
+Simple search input field<br/>
+🔹 Image Gallery<br/>
 Grid of images representing content/blogs
-🔹 Decorative Elements
-Circular shapes for modern UI feel
-🔹 Content Highlights
+🔹 Decorative Elements<br/>
+Circular shapes for modern UI feel<br/>
+🔹 Content Highlights<br/>
 Forum section
-Blog section
-🔹 Footer
+Blog section<br/>
+🔹 Footer<br/>
 Email subscription form
 FAQ button
-Copyright text
-▶️ How to Run
+Copyright text<br/>
+▶️ How to Run<br/>
 Download or clone the project
 Open the project folder
-Open Wix.html in your browser
-📈 Future Improvements
+Open Wix.html in your browser<br/>
+📈 Future Improvements<br/>
 Improve responsiveness (mobile/tablet)
 Replace absolute positioning with Flexbox/Grid
 Add animations and hover effects
